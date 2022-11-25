@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  color: black;
+}
+
+.user-details {
+  background-color: aquamarine;
+  margin: 20px auto;
+  width: 40%;
+  padding: 2px;
+}
